@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Card, Collapse } from 'react-bootstrap'
 
-import { ColorVariant } from '../../interfaces'
+import { ColorVariant } from '../../helpers/interfaces'
 import { Icon } from '../Icon'
 
 interface Props {

@@ -1,5 +1,5 @@
 import React from 'react'
-import { ButtonVariant } from 'src/interfaces'
+import { ButtonVariant } from 'src/helpers/interfaces'
 
 import { Button } from '../Button'
 

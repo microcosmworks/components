@@ -2,7 +2,7 @@ import React from 'react'
 import DropdownRB from 'react-bootstrap/Dropdown'
 import DropdownButton from 'react-bootstrap/DropdownButton'
 
-import { ButtonVariant } from '../../interfaces'
+import { ButtonVariant } from '../../helpers/interfaces'
 import { Item } from './interfaces'
 
 interface Props {

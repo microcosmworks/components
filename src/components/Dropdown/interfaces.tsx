@@ -1,4 +1,4 @@
-import { ButtonVariant } from '../../interfaces'
+import { ButtonVariant } from '../../helpers/interfaces'
 
 export interface Item {
   /* Item text */
